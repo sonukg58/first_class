@@ -1,3 +1,4 @@
 this app will show rate of covid case
 this app is made by sonu
 soon we will update this app
+updated code to see git stash.
